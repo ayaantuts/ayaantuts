@@ -38,3 +38,6 @@ Year | Degree | Institute | Grade
 ![Followers](https://img.shields.io/github/followers/ayaantuts?style=social)
 
 ![Commit-activity](https://img.shields.io/github/commit-activity/w/ayaantuts/ayaantuts?style=social)
+
+#### Special Thanks
+My classmate [Mihir Panchal](https://github.com/MihirRajeshPanchal) for the inspiration!
