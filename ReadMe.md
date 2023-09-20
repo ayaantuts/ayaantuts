@@ -3,6 +3,19 @@
 ## I am a Student, Web Developer, and a Competitive Coder!
 
 ### Education
+Current pursuing: Computer Engineering at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in)
+
+The courses consists of:-
+- Data Structures and Algorithms
+- Object Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- Software Engineering
+- Web Technologies
+- Machine Learning
+- Data Science
+
 Year | Degree | Institute | Grade
 :--- | :---: | ---: | :---:
 2020 | SSC | ANZA High School | 89%
@@ -11,7 +24,7 @@ Year | Degree | Institute | Grade
 2022 | CET | PACE | 99.33%ile
 2023 | First year (First sem) | [DJSCE](https://djsce.ac.in) | 9.57 CGPA
 2023 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 CGPA
-2023 | First year (Third sem) | [DJSCE](https://djsce.ac.in) | Currently Studying
+2023 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | Currently Studying
 
 ### Domains
 - Web Development
