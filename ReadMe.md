@@ -22,9 +22,10 @@ Year | Degree | Institute | Grade
 2022 | HSC | PACE Jr Sci College | 78.19%
 2022 | JEE | PACE | 95.64%ile
 2022 | CET | PACE | 99.33%ile
-2023 | First year (First sem) | [DJSCE](https://djsce.ac.in) | 9.57 CGPA
-2023 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 CGPA
-2023 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | Currently Studying
+2023 | First year (First sem) | [DJSCE](https://djsce.ac.in) | 9.57 SGPA
+2023 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 SGPA
+2023 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | 9.45 SGPA
+2023 | Second year (Fourth sem) | [DJSCE](https://djsce.ac.in) | Currently Pursuing
 
 ### Domains
 - Web Development
