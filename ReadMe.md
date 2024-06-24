@@ -22,10 +22,35 @@ Year | Degree | Institute | Grade
 2022 | HSC | PACE Jr Sci College | 78.19%
 2022 | JEE | PACE | 95.64%ile
 2022 | CET | PACE | 99.33%ile
-2023 | First year (First sem) | [DJSCE](https://djsce.ac.in) | 9.57 SGPA
-2023 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 SGPA
-2023 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | 9.45 SGPA
-2023 | Second year (Fourth sem) | [DJSCE](https://djsce.ac.in) | Currently Pursuing
+2022-23 | First year (First sem) | [DJSCE](https://djsce.ac.in) | 9.57 SGPA
+2022-23 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 SGPA
+2023-24 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | 9.45 SGPA
+2023-24 | Second year (Fourth sem) | [DJSCE](https://djsce.ac.in) | 9.43 SGPA
+2024-25 | Third year (Fifth sem) | [DJSCE](https://djsce.ac.in) | Currently pursuing
+2024-25 | Third year (Sixth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
+2025-26 | Final year (Fourth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
+2025-26 | Final year (Fourth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
+
+### My Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=FullStack&theme=radical)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=DSA&theme=radical)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=sem-4-pracs&theme=radical)]()
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=Math&theme=radical)]()
+
+### Skills
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-black?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
 
 ### Domains
 - Web Development
@@ -52,3 +77,10 @@ Year | Degree | Institute | Grade
 ![Followers](https://img.shields.io/github/followers/ayaantuts?style=social)
 
 ![Commit-activity](https://img.shields.io/github/commit-activity/w/ayaantuts/ayaantuts?style=social)
+
+![Stars](https://img.shields.io/github/stars/ayaantuts/ayaantuts?style=social)
+
+### Currently Working On
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Digaa2710&repo=Travel-Journal&theme=radical)]()
+
+### Thanks for visiting my profile! Have a great day! 👋
