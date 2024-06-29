@@ -1,7 +1,7 @@
-# Hey! I am Ayaan Shaikh
-## I am a Student, Web Developer, and a Competitive Coder!
-### Education
-Current pursuing: Computer Engineering at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in)
+# 👋 Hey! I am Ayaan Shaikh
+## I am a Student, Web Developer, and a Competitive Coder! 🧑🏽‍💻
+### Education 🎓
+Current pursuing: Computer Engineering at [Dwarkadas J. Sanghvi College of Engineering](https://djsce.ac.in) 🏫
 
 The courses consists of:-
 - Data Structures and Algorithms
@@ -29,13 +29,13 @@ Year | Degree | Institute | Grade
 2025-26 | Final year (Seventh sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
 2025-26 | Final year (Eighth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
 
-### My Repositories
+### My Repositories 📂
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=FullStack&theme=radical)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=DSA&theme=radical)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=sem-4-pracs&theme=radical)]()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=Math&theme=radical)]()
 
-### Skills
+### Skills 🛠️
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)
@@ -50,27 +50,28 @@ Year | Degree | Institute | Grade
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=sql)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 
-### Domains
+### Domains 🌐
 - Web Development
 - Competitive Coding
 - Machine Learning
 - Data Science
 
-### Contacts
+### Contacts 📫
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/ayaantuts)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayaan-shaikh-/)
 [![DevFolio](https://img.shields.io/badge/-DevFolio-black?logo=devfolio)](https://devfolio.co/@ayaantuts)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank)](https://www.hackerrank.com/ayaanmaths04)
 
 ### Achievements
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ayaantuts&show_icons=true&theme=transparent)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ayaantuts&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaantuts&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaantuts&layout=compact&theme=dark)
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ayaantuts&theme=dark)
 
 ![Tropies](https://github-profile-trophy.vercel.app/?username=ayaantuts&theme=dark_lover&margin-w=40&margin-h=40&no-bg=true&column=3)
 
-![Views](https://komarev.com/ghpvc/?username=ayaantuts&color=green)
+![Views](https://komarev.com/ghpvc/?username=ayaantuts&style=dark)
 
 ![Followers](https://img.shields.io/github/followers/ayaantuts?style=dark)
 
