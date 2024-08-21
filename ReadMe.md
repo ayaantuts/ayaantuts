@@ -80,7 +80,7 @@ Year | Degree | Institute | Grade
 ![Stars](https://img.shields.io/github/stars/ayaantuts/ayaantuts?style=dark)
 
 ### Currently Working On
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=FullStack&theme=radical)](https://github.com/Digaa2710/Travel-Journal)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=FullStack&theme=radical)](https://github.com/ayaantuts/sem-v-pracs)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ayaantuts&repo=sem-v-pracs&theme=radical)](https://github.com/Digaa2710/Travel-Journal)
 
 ### Thanks for visiting my profile! Have a great day! 👋
