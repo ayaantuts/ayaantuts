@@ -24,9 +24,9 @@ Year | Degree | Institute | Grade
 2022-23 | First year (Second sem) | [DJSCE](https://djsce.ac.in) | 9.86 SGPA
 2023-24 | Second year (Third sem) | [DJSCE](https://djsce.ac.in) | 9.45 SGPA
 2023-24 | Second year (Fourth sem) | [DJSCE](https://djsce.ac.in) | 9.43 SGPA
-2024-25 | Third year (Fifth sem) | [DJSCE](https://djsce.ac.in) | Currently pursuing
-2024-25 | Third year (Sixth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
-2025-26 | Final year (Seventh sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
+2024-25 | Third year (Fifth sem) | [DJSCE](https://djsce.ac.in) | 9.32 SGPA
+2024-25 | Third year (Sixth sem) | [DJSCE](https://djsce.ac.in) | 9.95 SGPA
+2025-26 | Final year (Seventh sem) | [DJSCE](https://djsce.ac.in) | Currently pursuing
 2025-26 | Final year (Eighth sem) | [DJSCE](https://djsce.ac.in) | Yet to pursue
 
 ### My Repositories 📂
@@ -63,6 +63,8 @@ Year | Degree | Institute | Grade
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank)](https://www.hackerrank.com/ayaanmaths04)
 
 ### Achievements
+[![An image of @ayaantuts's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayaantuts)](https://holopin.io/@ayaantuts)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ayaantuts&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaantuts&layout=compact&theme=dark)
